@@ -219,4 +219,4 @@ Keep API keys only in `.env`; Git ignores that file. Do not commit it. If a key 
 
 ## License
 
-This project is licensed under the MIT License. Replace `YOUR NAME` in [LICENSE](LICENSE) with your name.
+This project is licensed under the MIT License. See the LICENSE file for details.
