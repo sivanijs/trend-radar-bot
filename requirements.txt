@@ -1,0 +1,6 @@
+python-telegram-bot
+httpx
+python-dotenv
+cachetools
+trendspyg
+pytest
